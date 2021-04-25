@@ -1,0 +1,33 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This application allows a manager to enter from the command-line, information about his/her employees, that will generate a HTML webpage that will display the summaries for each employee.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggiemace/team-profile-generator.git"
+  },
+  "keywords": [
+    "manager",
+    "team",
+    "intern",
+    "development"
+  ],
+  "author": "Reginald Mace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reggiemace/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/reggiemace/team-profile-generator#readme"
+}
