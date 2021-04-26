@@ -1,0 +1,13 @@
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: red;
+  color: white;
+}
+.employee-section {
+  margin-top: 50px;
+}
+.card-header {
+  background-color: cornflowerblue;
+  color: white;
+}
