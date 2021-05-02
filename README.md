@@ -1,4 +1,4 @@
-<img width="1907" alt="Screen Shot 2021-05-02 at 12 07 03 PM" src="https://user-images.githubusercontent.com/54730132/116819880-34619880-ab40-11eb-84e4-febc52972489.png">
+
 # team-profile-generator
 
 ## Description:
