@@ -197,7 +197,7 @@ menu = () => {
                             }">${engineer.email}</a></li>
                             <li class="list-group-item">GitHub:<a href="https://github.com/${
                               engineer.github
-                            }"></a></li>
+                            }">${engineer.github}</a></li>
                         </ul>
                             </div>
 
