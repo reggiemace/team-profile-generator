@@ -1,0 +1,20 @@
+ 
+        <div class="employee-section">
+                    <div class="card" style="width: 18rem;">
+                        <div class="card-body">
+                            <div class="card-header">
+                                <h5 class="employee-name">Tommy Gunn</h5>
+                                <h6 class="engineer-position mb-2 text-muted">Engineer</h6>
+                            </div>
+                            <div class="card-content">
+                            <ul class="list-group">
+                            <li class="list-group-item">ID: 20</li>
+                            <li class="list-group-item">Email: <a href="mailto:tommygunn@gmail.com">tommygunn@gmail.com</a></li>
+                            <li class="list-group-item">GitHub:<a href="https://github.com/tommygunn">tommygunn</a></li>
+                        </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+        

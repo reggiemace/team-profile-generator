@@ -1,0 +1,20 @@
+ 
+        <div class="employee-section">
+                    <div class="card" style="width: 18rem;" >
+                        <div class="card-body">
+                            <div class="card-header">
+                                <h5 class="employee-name">Reginald Mace</h5>
+                                <h6 class="manager-position mb-2 text-muted">Manager</h6>
+                            </div>
+                            <div class="card-content">
+                            <ul class="list-group">
+                            <li class="list-group-item">ID: 10</li>
+                            <li class="list-group-item">Email: <a href="mailto:reginaldmace36@gmail.com">reginaldmace36@gmail.com</a></li>
+                            <li class="list-group-item">Office Number: 100</li>
+                        </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+        
